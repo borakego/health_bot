@@ -5,7 +5,7 @@ from telebot import types
 import datetime
 
 TOKEN = '6303505767:AAFiHZDMaTeCA0VdLgrOLXJyT4lr7fCJuIg'
-
+#название бота - @barakov_health_bot
 
 bot = telebot.TeleBot(TOKEN) # инициализируем нашего бота
 
